@@ -1,4 +1,4 @@
-package com.rn_oreo;
+package fr.awid;
 
 import android.os.Bundle;
 

@@ -140,7 +140,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.rn_oreo"
+        applicationId "fr.awid"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1605866997
